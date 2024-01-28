@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dragutint
 - 👀 I’m interested in cutting-edge technologies and enterprise-level software architectures
-- 🌱 I’m currently learning new stuff about Quarkus, OpenAPI, Event-driven architecture, GCP, and k8s
+- 🌱 I’m currently learning new stuff about Quarkus, OpenAPI, Event-driven architecture, GCP, k8s and Observability of the Enterprise systems
 - 📫 How to reach me - dragutin.todorovicx@gmail.com
 
 <!---
